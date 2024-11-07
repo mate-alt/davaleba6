@@ -1,0 +1,117 @@
+h1{
+	text-decoration: none;
+	font-size: 40px;
+	font-weight: 600;
+	color: black;
+	font-family: "Roboto", serif;
+}
+
+.headeri{
+	display: inline-block;
+}
+.linki{
+	text-decoration: none;
+	font-size: 20px;
+	font-weight: 700;
+	color: black;
+	font-family: "Roboto", serif;
+}
+
+.linki1{
+	margin-left: 25px;
+	text-decoration: none;
+	font-size: 20px;
+	font-weight: 700;
+	color: black;
+	font-family: "Roboto", serif;
+}
+
+.img{
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+}
+
+.sea{
+	height: 186px;
+	width: 362px;
+}
+
+.magaridiv{
+	position: relative;
+	height: 171px;
+	width: 362px;
+}
+
+.magaridiv1{
+	height: 171px;
+	width: 362px;
+	margin-left: 120px;
+	position: relative;
+}
+
+.text{
+	font-family: "Roboto", serif;
+	font-size: 15px;
+	color: #8A8787;
+}
+
+.time{
+	opacity: 60%;
+	height: 25px;
+	width: 25px;
+	border-radius: 50%;
+}
+
+.minago{
+	font-size: 15px;
+	font-weight: 700;
+	font-family: "Roboto", serif;
+	display: inline-block;
+	color: #8A8787;
+}
+
+.cool{
+	display: flex;
+}
+
+.cool11{
+	position: absolute;
+	color: white;
+	font-family: "Roboto", serif;
+	font-size: 15px;
+	top: 20px;
+	left: 30px;
+}
+
+.kaiaaa{
+	position: relative;
+	width: 700px;
+	height: 700px;
+	display: inline-block;
+}
+
+.kaiaaaa{
+	margin-left: 100px;
+	width: 430px;
+	height: 700px;
+	display: inline-block;
+}
+.sea1{
+	width: 500px;
+	height: auto;
+}
+
+.sea2{
+	width: 300px;
+	height: auto;
+}
+
+.cool12{
+	position: absolute;
+	color: white;
+	font-family: "Roboto", serif;
+	font-size: 20px;
+	top: 100px;
+	left: 150px;
+}
